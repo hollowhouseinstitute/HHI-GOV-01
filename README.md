@@ -1,5 +1,18 @@
 # HHI-GOV-01
+# HHI_GOV_01
+## Longitudinal Governance Infrastructure
 
+HHI_GOV_01 is the canonical governance standard of Hollow House Institute.
+
+It defines singular decision authority, escalation integrity, and behavioral
+drift prevention over time.
+
+No policy, ethics framework, dataset, or operational document may supersede
+this standard.
+
+Governance is infrastructure, not guidance.
+
+**Time turns behavior into infrastructure.**
 HHI-GOV-01 is a public governance standard defining the minimum structural requirements for AI systems to prevent silent behavioral drift over time.
 
 The standard treats governance as infrastructure rather than policy. It specifies enforceable requirements for authority declaration, accountability binding, non-bypassable evidence generation, numerical drift detection, escalation enforcement, and falsifiable proof criteria within defined system boundaries.

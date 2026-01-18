@@ -1,3 +1,5 @@
+![Governance](https://img.shields.io/badge/Governance-HHI--GOV--01-blue)
+
 # Governance Diagrams
 
 These diagrams visualize governance as behavioral infrastructure over time.
